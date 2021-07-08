@@ -1,2 +1,3 @@
-# Black-Politician-and-bicyclist-counts-
+# Black-Politician,bicyclist-counts-and-Diabetes-Detection
 This analyse the numbers of bicyclist crossing Brooklyn bridge everyday and also It determine whether the effect of the email being from "out-of-district" (someone who can't vote for you and so provides no extrinsic motivation to reply) would have a smaller effect on response rates for Black legislators than for non-Black ones, providing evidence of additional intrinsic motivation on the part of Black legislators to help Black people.
+The objective of the analysis is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
