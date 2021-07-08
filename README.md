@@ -1,0 +1,2 @@
+# Black-Politician-and-bicyclist-counts-
+This analyse the numbers of bicyclist crossing Brooklyn bridge everyday and also It determine whether the effect of the email being from "out-of-district" (someone who can't vote for you and so provides no extrinsic motivation to reply) would have a smaller effect on response rates for Black legislators than for non-Black ones, providing evidence of additional intrinsic motivation on the part of Black legislators to help Black people.
